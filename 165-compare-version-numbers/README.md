@@ -1,6 +1,10 @@
 # [165. Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/)
 
-Medium
+**Difficulty:** `Medium`
+
+**Topics:** `Two Pointers` `String`
+
+---
 
 Given two version numbers, `version1`  and  `version2`, compare them.
 
