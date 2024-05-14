@@ -47,6 +47,8 @@ _Return the following:_
 - `version1`  and  `version2` **are valid version numbers**.
 - All the given revisions in `version1`  and  `version2` can be stored in a **32-bit integer**.
 
+---
+
 ## Code
 
 Java
